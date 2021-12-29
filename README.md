@@ -16,5 +16,3 @@
         <img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a></code>
 <br>     
 
-<a href="https://https://web.dio.me/home">
-    <img src="https://user-images.githubusercontent.com/63436406/141657590-d3254d20-6606-4d74-afe2-e084042b41b7.png" align="right" height="80px" width="250px" ></a>
